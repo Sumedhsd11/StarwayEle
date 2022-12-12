@@ -1,0 +1,19 @@
+footer{
+    height: 300px;
+    background: black;
+    border: 1px solid red;
+
+}
+h6{
+    align-items: center;
+    padding: 10px;
+    color: aliceblue;
+
+}
+footer a,li{
+    padding: 10px;
+    color: aliceblue;
+}
+footer a:hover{
+    color: purple;
+}
